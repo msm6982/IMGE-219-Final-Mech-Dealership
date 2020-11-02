@@ -1,0 +1,1 @@
+Submit Maya models as binary files here! Feel free to create new categories/folders for better organization!

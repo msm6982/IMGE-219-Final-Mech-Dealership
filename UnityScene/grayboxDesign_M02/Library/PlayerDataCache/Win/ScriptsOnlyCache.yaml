@@ -1,7 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    FPSController.dll:
-    - FPSController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -39,11 +37,9 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 15710}
+      Script: {instanceID: 14610}
     - Class: 114
-      Script: {instanceID: 15712}
-    - Class: 115
-      Script: {instanceID: 0}
+      Script: {instanceID: 14614}
     - Class: 124
       Script: {instanceID: 0}
     - Class: 135
@@ -353,6 +349,12 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
+      Hash: 53c7c020ea797c95bd794d65a5cb08f5
+    assemblyName: FPSController.dll
+    namespaceName: 
+    className: FPSController
+  - hash:
+      serializedVersion: 2
       Hash: 6939772cb3ce775a8e8d99f332534491
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -483,13 +485,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 53c7c020ea797c95bd794d65a5cb08f5
-    assemblyName: FPSController.dll
-    namespaceName: 
-    className: FPSController
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/sagew/OneDrive/Documents/GitHub/IMGE-219-Final-Mech-Dealership/UnityScene/grayboxBuild/grayboxDesign_M02.exe
+  playerPath: C:/Users/sagew/OneDrive/Documents/GitHub/IMGE-219-Final-Mech-Dealership/UnityScene/grayboxBuild_M03/grayboxDesign_M02.exe
